@@ -1,0 +1,6 @@
+/.vscode/
+/.terraform/
+
+# NOTE: state files should be stored on persistent external storage/db
+/terraform.tfstate
+/terraform.tfstate.backup
